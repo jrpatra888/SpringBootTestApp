@@ -14,7 +14,7 @@ public class Jyoti {
 		{
 			System.out.println("Invalid");
 		}
-		System.out.println("Done");
+		System.out.println("Babi Bhauja");
 
 	}
 
